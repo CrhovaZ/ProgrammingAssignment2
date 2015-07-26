@@ -1,4 +1,4 @@
-## These functions use a cache to save computed inverse matrix to the created one.
+## These functions use a cache to save computed inverse matrix of the previously created one.
 
 ## makeCacheMatrix creates a matrix (square matrix)
 ## and then calculate the inverse matrix to the created one.
